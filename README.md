@@ -1,1 +1,1 @@
-# this is a Git Exercise
+# This is a Git Exercise
